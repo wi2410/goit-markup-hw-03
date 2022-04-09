@@ -126,6 +126,10 @@ h1, h2, h3, h4, p, ul {
 .header-nav, .main-nav {
   display: flex;
   align-items: center;
+  
+}
+.header {
+  border-bottom: 1px solid #ECECEC;
 }
 .footer-contact {
   margin-top: 20px;

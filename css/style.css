@@ -99,13 +99,14 @@ h1, h2, h3, h4, p, ul {
   line-height: 1.2;
   font-weight: 500;
   letter-spacing: 0.02em;
+  padding: 32px 0;
 }
 .contacts {
   font-style: normal;
   line-height: 1.7;
   color: var(--title-text-color);
   text-decoration: none;
-  padding: 32px 0;
+
 }
 .nav:hover, 
 .nav:focus,
